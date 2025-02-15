@@ -1,0 +1,9 @@
+name: macOS App Template
+options:
+  bundleIdPrefix: ks1019.kotaro.suto
+targets:
+  App:
+    type: application
+    platform: macOS
+    sources: 
+      - Sources
